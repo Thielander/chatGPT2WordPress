@@ -53,7 +53,7 @@ wp_status = 'draft'
 #Allow comments? open or closed
 wp_comments = 'closed'
 
-#Pings erlauben open oder closed
+#Pings allow open or closed
 wp_ping = 'closed'
 
 #Whether the post should be treated as sticky or not.
