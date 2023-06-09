@@ -28,7 +28,7 @@ This script utilizes the OpenAI API to generate captivating and high-quality blo
 - Python 3.7 or higher
 - OpenAI API key
 - WordPress credentials (username, password, endpoint)
-- WordPress Plugin WordPress REST API Authentication (https://de.wordpress.org/plugins/wp-rest-api-authentication/)
+- WordPress Plugin WordPress REST API Authentication (https://de.wordpress.org/plugins/wp-rest-api-authentication/ with Basic Authentication Method)
 
 
 
